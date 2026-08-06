@@ -12,9 +12,9 @@ Log Analyzer:Parses the generated log files and provides a structured summary re
 
 Project Structur:
 HoneypotProject/
-├── honeypot.py
-├── analyzer.py
-└── attack_logs.txt
+honeypot.py
+analyzer.py
+attack_logs.txt
 
 
 How to Run & Test:
