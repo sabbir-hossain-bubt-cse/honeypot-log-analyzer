@@ -14,9 +14,7 @@ Project Structur:
 HoneypotProject/
 
 honeypot.py
-
 analyzer.py
-
 attack_logs.txt
 
 
