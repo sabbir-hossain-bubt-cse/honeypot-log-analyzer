@@ -11,12 +11,13 @@ Log Analyzer:Parses the generated log files and provides a structured summary re
 
 
 Project Structur:
+Project Structure
+```
 HoneypotProject/
 │
-├── honeypot.py     
+├── honeypot.py      
 ├── analyzer.py
 └── attack_logs.txt
-
 
 
 
@@ -39,5 +40,4 @@ Open another new terminal window, navigate to the project directory, and run the
 
 Requirements:
 Python 3.x 
-
 No external third-party dependencies required (relies purely on Python's built-in socket, datetime, and collections modules).
