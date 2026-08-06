@@ -11,14 +11,11 @@ Log Analyzer:Parses the generated log files and provides a structured summary re
 
 
 Project Structur:
-Project Structure
 ```
 HoneypotProject/
-│
 ├── honeypot.py      
 ├── analyzer.py
 └── attack_logs.txt
-
 ```
 
 
