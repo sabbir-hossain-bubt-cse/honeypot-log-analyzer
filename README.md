@@ -33,7 +33,6 @@ Step 3: Analyze the Logs ::
 Open another new terminal window, navigate to the project directory, and run the analyzer script to view the threat intelligence report: ' python analyzer.py '
 
 
-Requirements::
+Requirements:
 Python 3.x
-
 No external third-party dependencies required (relies purely on Python's built-in socket, datetime, and collections modules).
