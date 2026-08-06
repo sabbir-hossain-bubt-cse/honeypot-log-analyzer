@@ -37,5 +37,5 @@ Open another new terminal window, navigate to the project directory, and run the
 
 Requirements:
 
-Python 3.x 
+Python 3.x   ,
 No external third-party dependencies required (relies purely on Python's built-in socket, datetime, and collections modules).
